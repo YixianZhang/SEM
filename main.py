@@ -51,10 +51,7 @@ def memory_efficient_query():
         print(raw_slice)
         query.close()
 
-# Press the green button in the gutter to run the script.
 if __name__ == '__main__':
     # query()
     # obtain()
     memory_efficient_query()
-
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
